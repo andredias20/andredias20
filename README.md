@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andre de Carli Dias
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning how to programing
+- 📫 You can reach me by Mail andredias040500@gmail.com
