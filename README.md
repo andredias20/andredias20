@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre de Carli Dias</h1>
-<h3 align="center">I'm a beginner on development in general. And I intend to work with development in the future.</h3>
+<h3 align="center">I'm a Backend Java Developer, continuosly learning</h3>
 
 - 🌱 I am a **Java** developer
 
