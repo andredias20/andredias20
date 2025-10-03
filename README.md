@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Andre de Carli Dias</h1>
-<h3 align="center">I'm a Backend Java Developer, continuosly learning</h3>
+<h3 align="center">I'm a Fullstack Developer, continuosly learning</h3>
 
-- 🌱 I am a **Java** developer
+- 🌱 I am a Fullstack developer
 
 - 📫 How to reach me **andredias040500@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/andré-dias0405" target="blank">
+    <a href="https://www.linkedin.com/in/andredias20" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andré-dias0405" height="30" width="40" />
     </a>
 </p>
