@@ -1,3 +1,4 @@
+![Profile view counter](https://komarev.com/ghpvc/?username=andredias20)
 <h1 align="center">Hi 👋, I'm Andre de Carli Dias</h1>
 <h3 align="center">I'm a Fullstack Developer, continuosly learning</h3>
 
