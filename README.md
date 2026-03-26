@@ -1,62 +1,87 @@
-![Profile view counter](https://komarev.com/ghpvc/?username=andredias20)
-<h1 align="center">Hi 👋, I'm Andre de Carli Dias</h1>
-<h3 align="center">I'm a Fullstack Developer, continuosly learning</h3>
+<div align="center">
 
-- 🌱 I am a Fullstack developer
+![Profile Views](https://komarev.com/ghpvc/?username=andredias20&color=0e75b6&style=flat-square&label=Profile+Views)
 
-- 📫 How to reach me **andredias040500@gmail.com**
+# André de Carli Dias
 
+**Backend-focused Fullstack Developer** · Java · C# · Python · Microservices
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/andredias20" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andré-dias0405" height="30" width="40" />
-    </a>
-</p>
+*Toledo, Paraná — Brazil*
 
-<h3 align="left">Tools:</h3>
-<p align="left"> 
-    <h4>Frontend:</h4>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
-        </a>
-        <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
-        </a>
-    <h4>Programming Languages:</h4>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a>
-        <a href="https://spring.io/projects/spring-boot">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40">
-    </a>
-        <a href="https://www.php.net/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40">
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://groovy-lang.org/documentation.html" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/> 
-    </a>
-    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </a>
-    <h4>Databases:</h4>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sqlserver" width="40" height="40"/>
-    </a>
-    <h4>Infraestructure: </h4>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>    
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="linux" width="40" height="40"/> 
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andredias20-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andredias20)
+[![Email](https://img.shields.io/badge/Email-andredias040500@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andredias040500@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Fullstack Developer with a backend focus, working professionally for 2+ years on microservices, ERP/E-commerce integrations, and web systems. Experienced in financial ecosystems, distributed architecture, and continuous delivery on Linux environments with Docker.
+
+Currently finishing a degree in **Internet Systems Technology** at **UTFPR – Toledo** (expected graduation: 2025/2026).
+
+---
+
+## 🏢 Experience
+
+| Company | Role | Stack |
+|---|---|---|
+| **Emage Soluções** | Dev Full Stack | C# · ASP.NET Core · Oracle DB · Redis |
+| **Giro.Tech** | Dev Full Stack | Java · Python · Golang · Kafka · AWS SQS · MongoDB |
+| **Maker Soluções** | Dev Full Stack | Java · Spring Boot · Groovy · PostgreSQL |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frameworks & Platforms
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Cloud & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andredias20&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andredias20&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Always learning, always building."*
+
+</div>
