@@ -72,9 +72,9 @@ Currently finishing a degree in **Internet Systems Technology** at **UTFPR – T
 
 <div align="center">
 
-![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andredias20&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Andre's GitHub Stats](https://andredias20-github-readme-stats.vercel.app/api?username=andredias20&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andredias20&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://andredias20-github-readme-stats.vercel.app/api/top-langs/?username=andredias20&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
